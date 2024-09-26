@@ -38,7 +38,8 @@ pip install -r requirements.txt
 
 터미널 창에서 아래와 같이 진행경과를 확인할수 있습니다
 
-<img width="1100" alt="image" src="https://github.com/user-attachments/assets/634a4ed3-fc4c-492a-bc91-6f38792f8fd8">
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/dc93a662-cd82-4789-bf6f-7d1a8538189b">
+
 
 
 회의음성파일은 mp3, wav를 받을 수 있고 문제없이 작동하는 것을 확인할 수 있었습니다
