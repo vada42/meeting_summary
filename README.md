@@ -11,7 +11,8 @@
 '2.3.0+cu121'
 
 
-이 코드는 post 형식으로 받은 회의 음성파일을 회의 요약록으로 반환하는 코드입니다
+이 코드는 post 형식으로 받은 회의 음성파일을 회의 요약록으로 반환합니다
+사용하시려면 openapi 와 naver-clovar 의 각각의 api_key가 필요합니다
 
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/da29cc8e-8c8f-4409-aec3-375fde002258">
 
