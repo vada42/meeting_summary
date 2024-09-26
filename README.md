@@ -14,6 +14,10 @@
 이 코드는 post 형식으로 받은 회의 음성파일을 회의 요약록으로 반환합니다
 사용하시려면 openapi 와 naver-clovar 의 각각의 api_key가 필요합니다
 각각의 api_key를 .env파일에 삽입하시면 됩니다
+```
+OPENAI_API_KEY = 'OPENAI api key 삽입'
+NAVER_SPEECH_API_KEY = 'naver clovar의 api key 삽입'
+```
 
 
 <img width="250" alt="image" src="https://github.com/user-attachments/assets/da29cc8e-8c8f-4409-aec3-375fde002258">
